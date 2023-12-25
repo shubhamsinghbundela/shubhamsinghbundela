@@ -26,7 +26,7 @@
       </p>
     </td>
     <td>
-       <a href="https://app.daily.dev/shubhamsinghbundela"><img src="https://github.com/shubhamsinghbundela/shubhamsinghbundela/blob/main/devcard.svg" width="400" alt="Shubham Singh's Dev Card"/></a>
+       <a href="https://app.daily.dev/shubhamsinghbundela"><img src="https://api.daily.dev/devcards/67abd919e1f0433184b5ebd3d83c4f60.png?r=pup" width="400" alt="Shubham Singh's Dev Card"/></a>
     </td>
   </tr>
 </table>
