@@ -151,13 +151,13 @@ All my projects are available here on GitHub. You can view my top projects/contr
 
 
 
-<h1 align="center">Codewars</h1>
+<!-- <h1 align="center">Codewars</h1>
 
 
 <p align="center" dir="auto">
   <a href="https://github.com/shubhamsinghbundela/codewars" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsinghbundela/badges/small" style="max-width: 100%;"></a>
 
-</p>
+</p> -->
 
 <!-- <h1 align="center">Linkedin</h1> -->
 
