@@ -1,4 +1,4 @@
-<a href="https://shubhamsinghbundela.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/171166913-a0ca29fa-1e2d-4bea-b3c1-157d4e00a765.JPG" width="100%"></a>
+<a href="https://shubhamsinghbundelaportfolio.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/171166913-a0ca29fa-1e2d-4bea-b3c1-157d4e00a765.JPG" width="100%"></a>
 
 
 
@@ -86,7 +86,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
   <a href="https://github.com/shubhamsinghbundela/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://shubhambanaut.netlify.app/" target="_blank">
+  <a href="https://shubhamsinghbundelaportfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
