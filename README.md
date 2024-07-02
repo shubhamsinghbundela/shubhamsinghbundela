@@ -15,7 +15,7 @@
       <p>
       <span>👨‍💻 About Me : </span><br/>
         👀 &nbsp;Software developer with a deep interest in Development. Proven track record of creating and implementing successful 
-	         Web applications.In past i am part of a great community <a href="https://100devs.org/" target="_blank">100Devs</a>, <a href="https://twitter.com/DevMatrix1">DevMatrix<a>, <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a> and  <a href="https://github.com/TeamShiksha">Team Shiksha<a> .<br/>
+	         Web applications. Currently contributing at <a href="https://github.com/TeamShiksha">Team Shiksha<a>. In past i am part of a great community <a href="https://100devs.org/" target="_blank">100Devs</a>, <a href="https://twitter.com/DevMatrix1">DevMatrix<a>, and  <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a>.<br/>
         👯 &nbsp;I am enthusiastic about collaborating and contributing to open source projects, finding joy in leveraging my skills to make meaningful contributions to the community.<br/>
 	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsinghbundela.hashnode.dev/">hashnode</a> and thread on 
            <a href="https://twitter.com/shubhamsingh__1">twitter</a>. <br/>
