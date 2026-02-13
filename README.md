@@ -7,7 +7,7 @@
 <a href="https://twitter.com/shubhamsingh__1"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
 <a href="https://shubhamsinghbundela.hashnode.dev/"><img src="https://img.shields.io/badge/HASHNODE-000000?style=for-the-badge&logo=hashnode&logoColor=FFFFFF" height=25></a>
 </p>
-
+Previously Community Leader at @DevMatrix1 and Contributor at @RealDevSquad, @TeamShiksha, and @smartfoodsafe | #100Devs
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
       <p>
       <span>👨‍💻 About Me : </span><br/>
         👀 &nbsp;Software developer with a deep interest in Development. Proven track record of creating and implementing successful 
-	         Web applications. In Present I am community leader at <a href="https://twitter.com/DevMatrix1">DevMatrix<a>. In past i am part of a great community <a href="https://100devs.org/" target="_blank">100Devs</a>, <a href="https://github.com/TeamShiksha">Team Shiksha<a> and  <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a>.<br/>
+	         Web applications. Previously Community Leader at <a href="https://twitter.com/DevMatrix1">DevMatrix<a> and Contributor at  <a href="https://github.com/TeamShiksha">Team Shiksha<a> ,  <a href="https://github.com/Real-Dev-Squad">RealDevSquad<a> and <a href="https://github.com/shubham-smartfoodsafe">RealDevSquad<a>.<br/>
         👯 &nbsp;I am enthusiastic about collaborating and contributing to open source projects, finding joy in leveraging my skills to make meaningful contributions to the community.<br/>
 	🚀 &nbsp;I regularly write my projects blogs on <a href="https://shubhamsinghbundela.hashnode.dev/">hashnode</a> and thread on 
            <a href="https://twitter.com/shubhamsingh__1">twitter</a>. <br/>
