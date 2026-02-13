@@ -7,7 +7,6 @@
 <a href="https://twitter.com/shubhamsingh__1"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
 <a href="https://shubhamsinghbundela.hashnode.dev/"><img src="https://img.shields.io/badge/HASHNODE-000000?style=for-the-badge&logo=hashnode&logoColor=FFFFFF" height=25></a>
 </p>
-Previously Community Leader at @DevMatrix1 and Contributor at @RealDevSquad, @TeamShiksha, and @smartfoodsafe | #100Devs
 
 <table>
   <tr>
